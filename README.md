@@ -274,10 +274,10 @@ Au niveau réflexif, il est important de mentionner notre propre positionnement 
 <h4>Annexe 1: questionnaire Google Forms</h4>
 
 <p>
-[Questionnaire](https://drive.google.com/file/d/1mS8VhIzH5_-HN6Rb6gy3epok7WqDsDQm/view?usp=sharing)
+Questionnaire: https://drive.google.com/file/d/1mS8VhIzH5_-HN6Rb6gy3epok7WqDsDQm/view?usp=sharing
 </p>
 <p>
-[Réponses](https://docs.google.com/spreadsheets/d/1QFHyqYlobCO0574gDbqBxkOJJi49hgsPGZ-50r9GIrg/edit?usp=drive_link)
+Réponses: https://docs.google.com/spreadsheets/d/1QFHyqYlobCO0574gDbqBxkOJJi49hgsPGZ-50r9GIrg/edit?usp=drive_link
 </p>
 
 <hr>
