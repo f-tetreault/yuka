@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
@@ -153,11 +153,15 @@ Les systèmes de notation influencent la reformulation des produits (les industr
 
 <p>
 Derrière l'apparente simplicité du score de Yuka se trouve un ensemble de choix méthodologiques qui ne décrivent pas la réalité nutritionnelle : ils la définissent. Dans la perspective de Desrosières, quantifier revient toujours à convenir avant de mesurer. Yuka détermine donc, de manière conventionnelle : 
+</p>
 
+<p>
 •	ce qui doit être pris en compte (valeurs nutritionnelles, additifs, présence d’un label bio); 
 •	comment hiérarchiser ces dimensions (la pondération 60/30/10); 
 •	où placer les seuils qui séparent “bon”, “médiocre” ou mauvais.
+</p>
 
+<p>
 Ces paramètres ne sont pas des données naturelles, mais des choix normatifs incorporés dans un score. Une autre sélection d’indicateurs, une autre pondération ou d’autres seuils produisent nécessairement une autre réalité chiffrée. Ce ne sont donc pas les produits eux-mêmes qui portent en eux une note “objective”, mais la grille de Yuka qui fabrique cette échelle de qualité.
 </p>
 
@@ -165,9 +169,13 @@ Ces paramètres ne sont pas des données naturelles, mais des choix normatifs in
 
 <p>
 Une fois les conventions intégrées dans le score, elles se transforment en catégories qui s’imposent comme des évidences. Les dispositifs ne se contentent plus de classer les produits : il fait exister les distinctions qui n’étaient pas formulées de cette manière auparavant. Un yaourt n’était pas “56/100” ni “médiocre” avant que ces étiquettes ne soient définies et diffusées par l’application. 
+</p>
 
+<p>
 Cette dynamique apparaît clairement dans nos entretiens. Pour l’étudiante, un additif rouge devient automatiquement “nocif”, et un seul ingrédient peut “faire chuter tout le produit”. Elle assimile les catégories Yuka comme si elles décrivaient la réalité, alors qu’elles résultent en réalité de choix arbitraires de critères et de pondérations.
+</p>
 
+<p>
 Le classement produit donc des repères cognitifs qui orientent les jugements : la couleur, la note et le qualificatif fonctionnent ensemble comme un système de perception. Comme le souligne Desrosières, les conventions chiffrées se transforment en normes sociales, au point d’être intégrées dans les pratiques quotidiennes de consommation. 
 </p>
 
@@ -175,9 +183,13 @@ Le classement produit donc des repères cognitifs qui orientent les jugements : 
 
 <p>
 Si ces catégories s’imposent si facilement, c’est aussi parce que la forme chiffrée leur confère une apparente neutralité. Le score sur 100, associé à un code couleur simple, fonctionne comme une évidence visuelle qui dissimule son origine conventionnelle. Le chiffre apparaît comme une mesure pure, alors qu’il repose sur des choix normatifs et des arbitrages méthodologiques. 
+</p>
 
+<p>
 Cette illusion de neutralité est perceptible dans l'entretien : l’étudiante dit qu’elle ne “se posait pas la question des critères” et faisait confiance au résultat affiché. Le score fonctionne alors comme un verdict objectif, au point de court-circuiter les étiquettes officielles ou les informations nutritionnelles plus détaillées. 
+</p>
 
+<p>
 La force du dispositif réside précisément dans cette capacité à naturaliser un jugement. Présenté sous forme numérique, ce jugement semble découler d’une vérité simple, alors qu’il est l’expression d’un choix collectif stabilisé par la technologie. Yuka apparaît ainsi comme un acteur de normalisation, capable de transformer un calcul en repère social légitime.
 </p>
 
@@ -187,20 +199,31 @@ La force du dispositif réside précisément dans cette capacité à naturaliser
 
 <p>
 Le premier ressort de cette légitimité tient à la manière dont Yuka se situe symboliquement dans le paysage alimentaire. L’application apparaît comme un acteur “extérieur”, un petit dispositif citoyen opposé aux grandes entreprises agroalimentaires et aux autorités publiques. Cette position périphérique lui confère une présomption d’indépendance. Comme l’ont montré Callon, Lascoumes et Barthe (2001), l’expertise est d’autant plus acceptée qu’elle semble affranchie des intérêts économiques et institutionnels.
+</p>
 
+<p>
 Dans ce contexte, la forme même du score joue un rôle décisif. Les chiffres sont investis socialement d’un pouvoir de neutralité : ils semblent dire le vrai, sans intention, sans idéologie. Porter (1995) et Espeland & Steven (2008) rappellent que la quantification produit une impression d’objectivité qui dépasse largement la solidité de ses fondements. Le score numérique agit alors comme un “raccourci d’impartialité”, même lorsque la chaîne de calcul reste inaccessible aux utilisateurs. 
+</p>
 
+<p>
 Enfin, Yuka construit une rhétorique de transparence : elle affirme “montrer ce que l’industrie cache”, révélant les additifs, les sucres, les graisses. Cette promesse suffit souvent à créer une illusion de lisibilité du monde alimentaire. L’entretien l’illustre parfaitement : l’utilisatrice déclare ne pas comprendre l’algorithme, mais “voir ce qu’il y a dedans”. C’est moins le fonctionnement du score qui inspire la confiance que sa mise en scène comme un outil au service du consommateur contre les grands acteurs. 
+</p>
 
+<p>
 L’application bénéficie ainsi d’une crédibilité paradoxale : moins transparente scientifiquement que le Nutri-Score, mais perçue comme plus sincère, car extérieure aux institutions et portée par l’autorité sociale du chiffre. 
 </p>
 
 <h4>B. Appropriation des catégories, changements de pratiques et effets émotionnels</h4>
 
-<p>La confiance accordée au dispositif se traduit par une appropriation concrète des catégories construites par Yuka. Selon Desrosières (1993), les conventions chiffrées ne se contentent pas de décrire le réel : elles contribuent à le fabriquer en définissant ce qui est “bon” ou “mauvais”. L'entretien réalisé illustre ce processus : l’étudiante explique qu’elle évite certains additifs ou produits sucrés identifiés comme problématiques, même lorsqu’elle n’utilise plus l’application. Les catégories Yuka deviennent ainsi des repères cognitifs intégrés, guidant les choix alimentaires et cosmétiques au quotidien. 
+<p>
+La confiance accordée au dispositif se traduit par une appropriation concrète des catégories construites par Yuka. Selon Desrosières (1993), les conventions chiffrées ne se contentent pas de décrire le réel : elles contribuent à le fabriquer en définissant ce qui est “bon” ou “mauvais”. L'entretien réalisé illustre ce processus : l’étudiante explique qu’elle évite certains additifs ou produits sucrés identifiés comme problématiques, même lorsqu’elle n’utilise plus l’application. Les catégories Yuka deviennent ainsi des repères cognitifs intégrés, guidant les choix alimentaires et cosmétiques au quotidien. 
+</p>
 
-Cette internalisation s’accompagne d’effets émotionnels notables. Le dispositif peut générer une vigilance excessive, parfois de l’anxiété ou un contrôle compulsif de la consommation. L’étudiante rapporte qu’elle en venait à scanner des produits simples du quotidien, tels que des oeufs, par crainte de consommer des ingrédients jugés nocifs. Cette tension illustre le double effet du dispositif : il procure autonomisation / “empowerment” et connaissance pratique tout en induisant un stress lié aux conventions normatives intégrées dans le score. 
+<p>
+Cette internalisation s’accompagne d’effets émotionnels notables. Le dispositif peut générer une vigilance excessive, parfois de l’anxiété ou un contrôle compulsif de la consommation. L’étudiante rapporte qu’elle en venait à scanner des produits simples du quotidien, tels que des oeufs, par crainte de consommer des ingrédients jugés nocifs. Cette tension illustre le double effet du dispositif : il procure autonomisation / “empowerment” et connaissance pratique tout en induisant un stress lié aux conventions normatives intégrées dans le score.
+</p> 
 
+<p>
 Par ailleurs, l’usage de Yuka révèle une dimension mobilisatrice, quasi politique, du consommateur. Scanner et interpréter les scores devient un acte critique vis-à-vis de l’industrie agroalimentaire, s’inscrivant dans la logique décrite par Micheletti (2003) de consommation citoyenne et d’engagement indirect. La quantification ne se limite pas à informer : elle façonne les comportements, les perceptions et les émotions, transformant les utilisateurs en acteurs autonomes et critiques dans l’espace alimentaire. 
 </p>
 
@@ -210,6 +233,9 @@ Par ailleurs, l’usage de Yuka révèle une dimension mobilisatrice, quasi poli
 
 <p>
 En bref, Yuka a émergé dans un contexte marqué par une de crise de confiance envers l’industrie agroalimentaire et par l’essor de la numérisation de la santé. La simplicité de l’application et de son score synthétique muni d’un code de couleur a permis de faciliter la compréhension de l’information nutritionnelle et cosmétique. Cependant, une critique peut être faite par rapport aux limites du dispositif de l’application. En effet, puisque les données sont déclaratives et filtrées, on observe une problématique de fiabilité et de transparence. De plus, l’absence de certains indicateurs ainsi que la pondération arbitraire de certaines valeurs (60/30/10, seuils additifs, bonus bio), ajoute à l’enjeu de la crédibilité du score. Pourtant, cette capacité de Yuka à définir ce qui est considéré comme « bon » ou « mauvais » peut réellement influencer les perceptions, les comportements, et même les achats de ses utilisateurs. En fait, alors que la simplicité de Yuka offre de l’autonomie aux consommateurs dans leurs choix alimentaires, l’application peut aussi mener à des émotions de stress ou anxiété suite à la vigilance excessive. 
+</p>
+
+<p>
 En ce qui concerne l’écosystème alimentaire, on peut considérer Yuka comme étant un acteur privé intervenant dans la définition d’une « vérité normative » en matière de santé alimentaire. Alors que ce système est une solution simple et accessible qui permet aux consommateurs se faire une idée rapide de la composition générale des produits, la légitimité de cet outil reste tout de même critiquable, notamment dû à sa structuration arbitraire. Finalement, le cas de Yuka illustre en quoi un dispositif privé peut créer une norme acceptée socialement, même si elle va au-delà de la stricte validité scientifique. Considérant cela, les questions suivantes se posent : devrions-nous tout de même, en tant que société, attribuer une crédibilité à ce genre d’outil, et puis comment devrions-nous équilibrer la transparence, l’indépendance, ainsi que la responsabilité scientifique dans la composition de ce genre de dispositif?
 </p>
 
@@ -219,20 +245,36 @@ En ce qui concerne l’écosystème alimentaire, on peut considérer Yuka comme 
 
 <p>
 Commissariat Général au Développement Durable. (2023, November 11). Enquête ADEME: Les Français sur Le CheMin d’une consommation plus durable? Agence de l'environnement et de la maîtrise de l'énergie (ADEME). https://www.notre-environnement.gouv.fr/actualites/breves/article/enquete-ademe-les-francais-sur-le-chemin-d-une-consommation-plus-durable
-  
+</p>
+
+<p>
 De Longvilliers, C. (2025, June 17). Interview avec Julie Chapon, (EDHEC Master 2011), cofondatrice de Yuka, et EDHEC de l’année 2025. EDHEC Alumni. https://alumni.edhec.edu/fr/article/interview-avec-julie-chapon-edhec-master-2011-cofondatrice-de-yuka-et-edhec-de-l-annee-2025/17/06/2025/24173
+</p>
 
+<p>
 Goudou, G. (2023, January 20). Julie Chapon : Le parcours de la fondatrice de Yuka. Business Cool. https://business-cool.com/entreprendre/entrepreneurs-inspirants/julie-chapon-yuka/
+</p>
 
+<p>
 Guermantes, V. D. (2025, June 5). L’effet Yuka Que Les industriels n’avaient pas vu venir. L'Essentiel de l'Éco. https://lessentieldeleco.fr/2352-leffet-yuka-que-les-industriels-navaient-pas-vu-venir/
+</p>
 
+<p>
 Julie Chapon, Co-fondatrice de Yuka : De la disruption dans l'alimentation a la creation d'un empire du scan. (2023, December 28). Blog Le Wagon. https://blog.lewagon.com/fr/career/julie-chapon-yuka/
+</p>
 
+<p>
 L. G. (2024, November 19). Additifs controversés : comment Yuka veut mettre la pression sur les marques. Le Dauphiné Libéré. https://www.ledauphine.com/economie/2024/11/19/additifs-controverses-comment-yuka-veut-mettre-la-pression-sur-les-marques
+</p>
 
+<p>
 Polack, A. (2024, December 12). Yuka : La transparence au bout du clic. Sirha Food. https://www.sirhafood.com/fr/yuka-la-transparence-au-bout-du-clic
+</p>
 
+<p>
 Richet, J. L., Parguel, B., Cornudet, C., Berger-Remy, F., & Laporte, M. E. (2025, October 28). Le succès des applis de scans alimentaires comme Yuka a l’ère de la defiance. The Conversation. 
+</p>
 
+<p>
 https://theconversation.com/le-succes-des-applis-de-scans-alimentaires-comme-yuka-a-lere-de-la-defiance-267489
 </p>
