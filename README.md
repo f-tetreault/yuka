@@ -5,7 +5,7 @@
 
 
 <h1>La notation de Yuka : données, normes et légitimité dans la santé numérique</h1>
-<p>Alice Nguyen, Astrid Van Dongen-Rhodius, Félix Tétreault, Nicolas Mayen, Selma Ababsa & Selma Lettmann</p>
+<p>Par: Alice Nguyen, Astrid Van Dongen-Rhodius, Félix Tétreault, Nicolas Mayen, Selma Ababsa & Selma Lettmann</p>
 
 <hr>
 
