@@ -214,3 +214,25 @@ En ce qui concerne l’écosystème alimentaire, on peut considérer Yuka comme 
 </p>
 
 <hr>
+
+<h3>Bibliographie</h3>
+
+<p>
+Commissariat Général au Développement Durable. (2023, November 11). Enquête ADEME: Les Français sur Le CheMin d’une consommation plus durable? Agence de l'environnement et de la maîtrise de l'énergie (ADEME). https://www.notre-environnement.gouv.fr/actualites/breves/article/enquete-ademe-les-francais-sur-le-chemin-d-une-consommation-plus-durable
+  
+De Longvilliers, C. (2025, June 17). Interview avec Julie Chapon, (EDHEC Master 2011), cofondatrice de Yuka, et EDHEC de l’année 2025. EDHEC Alumni. https://alumni.edhec.edu/fr/article/interview-avec-julie-chapon-edhec-master-2011-cofondatrice-de-yuka-et-edhec-de-l-annee-2025/17/06/2025/24173
+
+Goudou, G. (2023, January 20). Julie Chapon : Le parcours de la fondatrice de Yuka. Business Cool. https://business-cool.com/entreprendre/entrepreneurs-inspirants/julie-chapon-yuka/
+
+Guermantes, V. D. (2025, June 5). L’effet Yuka Que Les industriels n’avaient pas vu venir. L'Essentiel de l'Éco. https://lessentieldeleco.fr/2352-leffet-yuka-que-les-industriels-navaient-pas-vu-venir/
+
+Julie Chapon, Co-fondatrice de Yuka : De la disruption dans l'alimentation a la creation d'un empire du scan. (2023, December 28). Blog Le Wagon. https://blog.lewagon.com/fr/career/julie-chapon-yuka/
+
+L. G. (2024, November 19). Additifs controversés : comment Yuka veut mettre la pression sur les marques. Le Dauphiné Libéré. https://www.ledauphine.com/economie/2024/11/19/additifs-controverses-comment-yuka-veut-mettre-la-pression-sur-les-marques
+
+Polack, A. (2024, December 12). Yuka : La transparence au bout du clic. Sirha Food. https://www.sirhafood.com/fr/yuka-la-transparence-au-bout-du-clic
+
+Richet, J. L., Parguel, B., Cornudet, C., Berger-Remy, F., & Laporte, M. E. (2025, October 28). Le succès des applis de scans alimentaires comme Yuka a l’ère de la defiance. The Conversation. 
+
+https://theconversation.com/le-succes-des-applis-de-scans-alimentaires-comme-yuka-a-lere-de-la-defiance-267489
+</p>
