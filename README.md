@@ -241,7 +241,48 @@ En ce qui concerne l’écosystème alimentaire, on peut considérer Yuka comme 
 
 <hr>
 
-<h3>Bibliographie</h3>
+<h2>Annexe</h2>
+
+<h3>Méthodologie des Interviews </h3>
+
+<h4>Objectifs</h4>
+
+<p>
+L’objectif principal de l’enquête est de comprendre la manière dont les utilisateurs perçoivent, utilisent et évaluent l’application Yuka, en adoptant un regard réflexif sur la “Vie sociale des données” : comment les évaluations automatisés des produits/aliments influencent les pratiques de consommation ou encore les attentes des usagers. De plus, il sera intéressant de se pencher sur les impacts des différentes manières d’évaluer ces produits/aliments, soient les notes, les codes couleurs ou/et les explications d’ingrédients.
+</p>
+
+<p>
+Pour atteindre cet objectif, nous avons adopté une méthodologie mixte : un questionnaire en ligne (outil quantitatif - Google Forms) pour récolter des tendances, des profils d’usagers et des données structurées ; ainsi que trois entretiens dirigés (méthode qualitative) pour produire des descriptions d’expérience plus approfondies. Le mélange de ces approches permet la triangulation : confronter tendances observées (quantitatif) et explications/nuances (qualitatif).
+</p>
+
+<h4>Coneception</h4>
+
+<p>
+La première étape de notre démarche a consisté à concevoir un questionnaire numérique via Google Forms. Ce choix répondait à plusieurs impératifs : faciliter la diffusion, permettre une collecte structurée et automatisée des réponses, et garantir l’anonymat des répondants (voir annexe 1). Lors de cours antécédents portant sur les méthodes quantitatives, certains principes ont été retenus afin d’être appliqués à la création de sondages et de questionnaires. Entre autres, il a été important de miser sur la clarté, la neutralité et la diversité des types de questions. Avant sa diffusion, un pré-test a été réalisé auprès de quelques personnes proches du public ciblé. Ce pilotage a permis d’identifier certaines ambiguïtés, d’ajuster l’ordre des questions et de reformuler certains items qui ne correspondaient pas aux objectifs de notre enquête. L’accessibilité à la plateforme de Google Forms facilite la participation, même si ce type d’outil induit également des limites, notamment liées à l’auto-sélection des répondants.
+</p>
+
+<p>
+Afin de compléter ces données quantitatives, nous avons conduit des entretiens dirigés d’environ trente minutes, fondés sur un guide structuré mais suffisamment souple pour permettre des digressions. Les entretiens comportent une introduction standardisée rappelant le cadre académique, la confidentialité des propos, la durée et demandant l’autorisation d’enregistrer (voir annexe 2). Le guide explore successivement le contexte d’usage, les motivations, la compréhension des mécanismes de notation, la confiance accordée à l’application, les transformations éventuelles des pratiques alimentaires ou cosmétiques, ainsi que les critiques et propositions des participants. Nous avons ainsi eu l’opportunité de mener trois entretiens avec des utilisateurs ou anciens utilisateurs de la plateforme Yuka (voir Annexe 3). Les entretiens ont joué un rôle essentiel dans notre dispositif car ils nous ont permis de saisir des éléments impossibles à identifier par questionnaire : le raisonnement sous-jacent aux choix, les tensions entre les jugements personnels et les évaluations algorithmiques, mais aussi les récits concrets d’expériences quotidiennes. Ils apportent de la profondeur, permettent d’explorer les ambiguïtés, les contradictions, et d’identifier des attentes latentes non formulées dans les réponses standardisées.
+</p>
+
+<h4>Limites</h4>
+
+<p>
+Au niveau réflexif, il est important de mentionner notre propre positionnement : en tant qu’étudiants, familiers des enjeux sociotechniques soulevés dans le cours, nous portons un regard informé sur les algorithmes de notation et leur rôle dans la production sociale des données. Cette position peut orienter nos hypothèses initiales et notre attention aux biais, ce qui nous invite à expliciter nos choix méthodologiques et à reconnaître les limites de l’enquête : échantillon non représentatif, recours à l’auto-déclaration, prédominance des individus connectés, nombre limité d’entretiens. Néanmoins, la combinaison du questionnaire numérique et des entretiens dirigés constitue un dispositif solide, cohérent avec nos objectifs et adapté à la compréhension des interactions entre les usagers et les systèmes de notation automatisés.
+</p>
+
+<h4>Annexe 1: questionnaire Google Forms</h4>
+
+<p>
+[Questionnaire](https://drive.google.com/file/d/1mS8VhIzH5_-HN6Rb6gy3epok7WqDsDQm/view?usp=sharing)
+</p>
+<p>
+[Réponses](https://docs.google.com/spreadsheets/d/1QFHyqYlobCO0574gDbqBxkOJJi49hgsPGZ-50r9GIrg/edit?usp=drive_link)
+</p>
+
+<hr>
+  
+<h2>Bibliographie</h2>
 
 <p>
 Commissariat Général au Développement Durable. (2023, November 11). Enquête ADEME: Les Français sur Le CheMin d’une consommation plus durable? Agence de l'environnement et de la maîtrise de l'énergie (ADEME). https://www.notre-environnement.gouv.fr/actualites/breves/article/enquete-ademe-les-francais-sur-le-chemin-d-une-consommation-plus-durable
@@ -278,3 +319,5 @@ Richet, J. L., Parguel, B., Cornudet, C., Berger-Remy, F., & Laporte, M. E. (202
 <p>
 https://theconversation.com/le-succes-des-applis-de-scans-alimentaires-comme-yuka-a-lere-de-la-defiance-267489
 </p>
+
+
