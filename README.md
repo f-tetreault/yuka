@@ -317,9 +317,6 @@ Polack, A. (2024, December 12). Yuka : La transparence au bout du clic. Sirha Fo
 
 <p>
 Richet, J. L., Parguel, B., Cornudet, C., Berger-Remy, F., & Laporte, M. E. (2025, October 28). Le succès des applis de scans alimentaires comme Yuka a l’ère de la defiance. The Conversation. 
-</p>
-
-<p>
 https://theconversation.com/le-succes-des-applis-de-scans-alimentaires-comme-yuka-a-lere-de-la-defiance-267489
 </p>
 
