@@ -205,3 +205,12 @@ Par ailleurs, l’usage de Yuka révèle une dimension mobilisatrice, quasi poli
 </p>
 
 <hr>
+
+<h2>Conclusion</h2>
+
+<p>
+En bref, Yuka a émergé dans un contexte marqué par une de crise de confiance envers l’industrie agroalimentaire et par l’essor de la numérisation de la santé. La simplicité de l’application et de son score synthétique muni d’un code de couleur a permis de faciliter la compréhension de l’information nutritionnelle et cosmétique. Cependant, une critique peut être faite par rapport aux limites du dispositif de l’application. En effet, puisque les données sont déclaratives et filtrées, on observe une problématique de fiabilité et de transparence. De plus, l’absence de certains indicateurs ainsi que la pondération arbitraire de certaines valeurs (60/30/10, seuils additifs, bonus bio), ajoute à l’enjeu de la crédibilité du score. Pourtant, cette capacité de Yuka à définir ce qui est considéré comme « bon » ou « mauvais » peut réellement influencer les perceptions, les comportements, et même les achats de ses utilisateurs. En fait, alors que la simplicité de Yuka offre de l’autonomie aux consommateurs dans leurs choix alimentaires, l’application peut aussi mener à des émotions de stress ou anxiété suite à la vigilance excessive. 
+En ce qui concerne l’écosystème alimentaire, on peut considérer Yuka comme étant un acteur privé intervenant dans la définition d’une « vérité normative » en matière de santé alimentaire. Alors que ce système est une solution simple et accessible qui permet aux consommateurs se faire une idée rapide de la composition générale des produits, la légitimité de cet outil reste tout de même critiquable, notamment dû à sa structuration arbitraire. Finalement, le cas de Yuka illustre en quoi un dispositif privé peut créer une norme acceptée socialement, même si elle va au-delà de la stricte validité scientifique. Considérant cela, les questions suivantes se posent : devrions-nous tout de même, en tant que société, attribuer une crédibilité à ce genre d’outil, et puis comment devrions-nous équilibrer la transparence, l’indépendance, ainsi que la responsabilité scientifique dans la composition de ce genre de dispositif?
+</p>
+
+<hr>
